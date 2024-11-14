@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './header.component.scss'
 })
 export class HeaderComponent {
-  title = 'Procurement questionaire stage2 - lol';
+  title = 'keep going😎!';
 }
