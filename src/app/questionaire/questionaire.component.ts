@@ -10,4 +10,5 @@ import { DatePipe } from '@angular/common';
 })
 export class QuestionaireComponent {
  dueDate = new Date() || '31/10/2024';
+ tlbValueNumber = 10
 }
